@@ -1,5 +1,7 @@
 ## Instalasi Pascal di Windows
 
+[Halaman Awal] 
+
 Kita akan menggunakan Free Pascal sebagai compiler untuk menjalankan program Pascal. Untuk tahapan instalasi, silakan mengikuti instruksi yang disediakan pada link berikut:
 
 1. Langkah pertama yang harus dilakukan untuk menyiapkan laptop/komputer kita agar siap dalam melakukan pemrograman Free Pascal adalah melakukan download file instalasi pada halaman resmi di link dibawah ini:
@@ -68,3 +70,7 @@ Kita akan menggunakan Free Pascal sebagai compiler untuk menjalankan program Pas
   <img src="img/15.png" alt="15">
   
 17. Selamat, free pascal sudah terinstall di laptopmu :)
+
+
+<!-- Internal Link -->
+[Halaman Awal]:./../README.MD

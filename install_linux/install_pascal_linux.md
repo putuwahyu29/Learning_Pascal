@@ -1,5 +1,6 @@
 ## Instalasi Pascal di Linux
 
+[Halaman Awal] 
 
 Kita akan menggunakan Free Pascal sebagai compiler untuk menjalankan program Pascal. Untuk tahapan instalasi, silakan mengikuti instruksi yang disediakan pada link berikut:
 
@@ -54,3 +55,7 @@ Kita akan menggunakan Free Pascal sebagai compiler untuk menjalankan program Pas
     <img src="img/14.png" alt="14">
 
 16.  Selamat, free pascal sudah terinstall di laptopmu :)
+
+<!-- Internal Link -->
+[Halaman Awal]:./../README.MD
+
