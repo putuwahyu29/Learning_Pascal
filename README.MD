@@ -23,7 +23,7 @@ Contoh program Hello World menggunakan bahasa pascal adalah sebagai berikut:
 Program HelloWorld;
 begin
    writeln('Hello world');
-end
+end.
 ```
 
 <hr>
@@ -32,9 +32,9 @@ end
 
 Untuk mengunduh dan menginstal bahasa pascal, sesuaikan dengan sistem operasi yang digunakan dan silahkan klik link berikut:
 
-### [![Install with Windows][windows-img]][windows-guide] [Install with Windows][windows-guide]
+### [![Install di Windows][windows-img]][windows-guide] [Install di Windows][windows-guide]
 
-### [![Install with Linux][linux-img]][linux-guide] [Install with Linux][linux-guide]
+### [![Install di Linux][linux-img]][linux-guide] [Install di Linux][linux-guide]
 
 <hr>
 
@@ -42,14 +42,20 @@ Untuk mengunduh dan menginstal bahasa pascal, sesuaikan dengan sistem operasi ya
 
 <hr>
 
-## Kumpulan Source Code dan EBook
+## Kumpulan Source Code dan Ebook
 
+<hr>
+
+## Lainnya
+### [![Pascal di Visual Studio Code][vscode-img]][linux-guide] [Pascal di Visual Studio Code][vscode-guide]
 <!-- Image -->
 
 [windows-img]: https://img.icons8.com/color/24/000000/windows-10.png
 [linux-img]: https://img.icons8.com/color/24/000000/linux--v1.png
+[vscode-img]: https://img.icons8.com/color/24/000000/visual-studio--v1.png
 
 <!-- Internal Link -->
 
 [windows-guide]: ./install_windows/install_pascal_windows.md
 [linux-guide]: ./install_linux/install_pascal_linux.md
+[vscode-guide]: ./vscode_guide.md
