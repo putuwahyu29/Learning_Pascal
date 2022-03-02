@@ -57,6 +57,7 @@ Untuk mengunduh dan menginstal bahasa pascal, sesuaikan dengan sistem operasi ya
 [linux-img]: https://img.icons8.com/color/24/000000/linux--v1.png
 [vscode-img]: https://img.icons8.com/color/24/000000/visual-studio--v1.png
 [sourcecode-img]: https://img.icons8.com/color/24/000000/source-code.png
+[book-img]:https://img.icons8.com/fluency/24/000000/book.png
 
 <!-- Internal Link -->
 
