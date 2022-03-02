@@ -39,6 +39,7 @@ Untuk mengunduh dan menginstal bahasa pascal, sesuaikan dengan sistem operasi ya
 <hr>
 
 ## Materi dan Pembahasan
+### [![book-img]][materi][Ebook Pascal][materi]
 
 <hr>
 
@@ -61,4 +62,4 @@ Untuk mengunduh dan menginstal bahasa pascal, sesuaikan dengan sistem operasi ya
 [windows-guide]: ./install_windows/install_pascal_windows.md
 [linux-guide]: ./install_linux/install_pascal_linux.md
 [vscode-guide]: ./vscode_guide.md
-[source-code]: https://github.com/putuwahyu29/Learning_Pascal/tree/master/Source%20Code
+[source-code]: https://github.com/putuwahyu29/Learning_Pascal/tree/master/Ebook
